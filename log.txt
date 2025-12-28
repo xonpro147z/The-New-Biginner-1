@@ -1,0 +1,24 @@
+📌 Bắt đầu xử lý
+📥 Đang xử lý dữ liệu học sinh...
+🎓 Đã cập nhật điểm thi.
+✅ Kết thúc xử lý
+📌 Bắt đầu xử lý
+📊 Đang phân tích dữ liệu điểm trung bình học sinh...
+✅ Nguyen Van A có điểm 8.5 > 8.0
+✅ Le Van C có điểm 9.2 > 8.0
+✅ Kết thúc xử lý
+📌 Bắt đầu xử lý
+📊 Đang phân tích dữ liệu điểm trung bình học sinh...
+✅ Kim Bảo có điểm 8.5 > 8.0
+✅ Kiệt có điểm 9.2 > 8.0
+✅ Kết thúc xử lý
+📌 Bắt đầu xử lý
+📊 Đang phân tích dữ liệu điểm trung bình học sinh...
+✅ Kim Bảo có điểm 8.5 > 8.0
+✅ Kiệt có điểm 9.2 > 8.0
+✅ Việt Anh có điểm 8.0 > 8.0
+✅ Kết thúc xử lý
+📌 Bắt đầu xử lý dữ liệu học sinh
+📥 Đang đọc dữ liệu học sinh...
+🎓 Phân tích xong danh sách học sinh giỏi.
+✅ Kết thúc xử lý
